@@ -1,3 +1,14 @@
+/*
+
+Made by doami2005
+카카오톡 봇 틱택토 미니게임 소스입니다.
+메신저봇R 전용입니다.
+
+https://open.kakao.com/o/gXaUzu1b
+질문은 여기로
+
+*/
+
 const Stone = '□';
 const P_Stones = ['O', 'X'];
 
